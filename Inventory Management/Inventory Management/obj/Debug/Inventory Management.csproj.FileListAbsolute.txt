@@ -1,0 +1,11 @@
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.AssemblyReference.cache
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.SuggestedBindingRedirects.cache
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+G:\code sourcetree github\Inventory Management\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Form1.resources
